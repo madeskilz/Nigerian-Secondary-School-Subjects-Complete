@@ -1,2 +1,4 @@
 # Nigerian-Secondary-School-Subjects-Complete
-A Complete SQL Runnable List of All Nigerian Secondary School Subjects
+A Compilation of a SQL Runnable List of All Nigerian Secondary School Subjects<br/>
+By Adekoniye Adedoyin Michael<br/>
+Software Developer
