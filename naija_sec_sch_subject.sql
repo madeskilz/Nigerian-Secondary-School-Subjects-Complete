@@ -38,6 +38,7 @@ INSERT INTO `subjects` (`id`, `name`) VALUES
 (4, 'Further Mathematics'),
 (46, 'Garment Making'),
 (2, 'General Mathematics'),
+(48, 'Geography'),
 (28, 'Government'),
 (36, 'Hausa'),
 (9, 'Health Education'),
