@@ -3,6 +3,8 @@ A Compilation of a SQL Runnable List of All Nigerian Secondary School Subjects<b
 By Adekoniye Adedoyin Michael<br/>
 Software Developer
 
+download sql from link
+<a href="https://github.com/madeskilz/Nigerian-Secondary-School-Subjects-Complete">https://github.com/madeskilz/Nigerian-Secondary-School-Subjects-Complete</a>
 The Universal Basic Education (UBE) Programme was introduced in Nigeria in September, 1988. Following this, in 2008 the Federal Government of Nigeria, through the Nigerian Educational Research and Development Council (NERDC) developed and introduced the 9-Year Basic Education Curriculum (BEC) in schools by realigning all extant Primary and Junior Secondary School Curricula to meet the key targets of the UBE programme. In view of some contemporary and national concerns and to make the curriculum more practical, relevant, interest generating to the young learners and in line with global best practices, the 9-year BEC was recently revised in 2012 and its implementation has just commenced in September, 2014. This article is focused on the structure, special features and the implementation strategy of the Revised 9-Year Basic Education Curriculum with some emphasis on the Basic Science and Technology component as one of the key cluster subjects prepared with the aim of catching the young learner to love science, learn science and create change in the learners environment.
 
 Keywords: education, curriculum, science, technology and structure
@@ -21,4 +23,4 @@ List of subjects nigeria secondary school
 If you need an SQL list of countries, here it is, take it and shine.
 
 How to thank me
-Email: michael.adekoniye@acodeclass.com
+Email: <a href="mailto:michael.adekoniye@acodeclass.com">michael.adekoniye@acodeclass.com</a>
